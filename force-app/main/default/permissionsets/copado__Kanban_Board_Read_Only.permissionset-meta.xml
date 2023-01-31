@@ -61,7 +61,6 @@
         <field>copado__Kanban_Board__c.copado__Sprint__c</field>
         <readable>true</readable>
     </fieldPermissions>
-    <hasActivationRequired>false</hasActivationRequired>
     <label>Kanban Board (Read Only)</label>
     <objectPermissions>
         <allowCreate>false</allowCreate>
