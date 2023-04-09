@@ -4,7 +4,6 @@
         <itemInstances>
             <componentInstance>
                 <componentName>copado:webhookSettings</componentName>
-                <identifier>c_webhookSettings1</identifier>
             </componentInstance>
         </itemInstances>
         <name>main</name>

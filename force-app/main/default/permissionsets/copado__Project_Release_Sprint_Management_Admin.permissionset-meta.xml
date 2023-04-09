@@ -221,7 +221,6 @@
         <field>copado__Sprint__c.copado__Working_days_in_sprint__c</field>
         <readable>true</readable>
     </fieldPermissions>
-    <hasActivationRequired>false</hasActivationRequired>
     <label>Project, Release &amp; Sprint Management (Admin)</label>
     <objectPermissions>
         <allowCreate>false</allowCreate>

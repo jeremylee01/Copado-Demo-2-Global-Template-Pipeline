@@ -263,7 +263,6 @@
         <field>copado__System_Property__c.copado__Value__c</field>
         <readable>true</readable>
     </fieldPermissions>
-    <hasActivationRequired>false</hasActivationRequired>
     <label>Copado Functions</label>
     <objectPermissions>
         <allowCreate>true</allowCreate>

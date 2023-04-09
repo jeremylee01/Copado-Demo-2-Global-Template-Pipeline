@@ -696,7 +696,6 @@
         <field>copado__User_Story_Data_Commit__c.copado__Status__c</field>
         <readable>true</readable>
     </fieldPermissions>
-    <hasActivationRequired>false</hasActivationRequired>
     <label>Data Deploy Admin</label>
     <objectPermissions>
         <allowCreate>false</allowCreate>

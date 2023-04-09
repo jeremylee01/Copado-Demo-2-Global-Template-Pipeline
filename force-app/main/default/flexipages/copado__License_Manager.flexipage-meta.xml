@@ -4,7 +4,6 @@
         <itemInstances>
             <componentInstance>
                 <componentName>copado:licenseManagerContainer</componentName>
-                <identifier>licenseManagerContainer</identifier>
             </componentInstance>
         </itemInstances>
         <name>main</name>

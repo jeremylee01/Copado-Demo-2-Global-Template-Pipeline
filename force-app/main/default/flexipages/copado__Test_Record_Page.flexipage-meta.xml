@@ -63,7 +63,6 @@
                     <value>3</value>
                 </componentInstanceProperties>
                 <componentName>force:highlightsPanel</componentName>
-                <identifier>force_highlightsPanel</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
@@ -81,7 +80,6 @@
                     <value>info</value>
                 </componentInstanceProperties>
                 <componentName>copado:copadoAlert</componentName>
-                <identifier>c_copadoAlert1</identifier>
                 <visibilityRule>
                     <criteria>
                         <leftValue>{!Record.copado__ReadyToRun__c}</leftValue>
@@ -106,7 +104,6 @@
                     <value>info</value>
                 </componentInstanceProperties>
                 <componentName>copado:copadoAlert</componentName>
-                <identifier>c_copadoAlert3</identifier>
                 <visibilityRule>
                     <booleanFilter>1 AND 2</booleanFilter>
                     <criteria>
@@ -136,7 +133,6 @@
                     <value>info</value>
                 </componentInstanceProperties>
                 <componentName>copado:copadoAlert</componentName>
-                <identifier>c_copadoAlert2</identifier>
                 <visibilityRule>
                     <booleanFilter>1 AND 2 AND 3 AND 4</booleanFilter>
                     <criteria>
@@ -167,13 +163,11 @@
         <itemInstances>
             <componentInstance>
                 <componentName>copado:testDefinition</componentName>
-                <identifier>c_testDefinition1</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
             <componentInstance>
                 <componentName>copado:testDefinitionPublishMessage</componentName>
-                <identifier>c_testDefinitionPublishMessage2</identifier>
             </componentInstance>
         </itemInstances>
         <name>Facet-fflazyg67vv</name>
@@ -195,7 +189,6 @@
                     <value>info</value>
                 </componentInstanceProperties>
                 <componentName>copado:copadoAlert</componentName>
-                <identifier>c_copadoAlert</identifier>
                 <visibilityRule>
                     <criteria>
                         <leftValue>{!Record.copado__Test_Tool__c}</leftValue>
@@ -228,7 +221,6 @@
                     <value>false</value>
                 </componentInstanceProperties>
                 <componentName>force:relatedListSingleContainer</componentName>
-                <identifier>force_relatedListSingleContainer</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
@@ -254,7 +246,6 @@
                     <value>false</value>
                 </componentInstanceProperties>
                 <componentName>force:relatedListSingleContainer</componentName>
-                <identifier>force_relatedListSingleContainer2</identifier>
                 <visibilityRule>
                     <criteria>
                         <leftValue>{!Record.copado__Test_Tool__c}</leftValue>
@@ -275,7 +266,6 @@
                     <value>Test Tool</value>
                 </componentInstanceProperties>
                 <componentName>copado:dynamicUISectionContainer</componentName>
-                <identifier>c_dynamicUISectionContainer1</identifier>
             </componentInstance>
         </itemInstances>
         <name>Facet-yaqumdrdwv</name>
@@ -297,7 +287,6 @@
                     <value>Test Definition</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tab</componentName>
-                <identifier>flexipage_tab3</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
@@ -311,7 +300,6 @@
                     <value>Results</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tab</componentName>
-                <identifier>flexipage_tab4</identifier>
             </componentInstance>
         </itemInstances>
         <name>Facet-2fb6kmrrpaj</name>
@@ -325,7 +313,6 @@
                     <value>Facet-2fb6kmrrpaj</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tabset</componentName>
-                <identifier>flexipage_tabset1</identifier>
             </componentInstance>
         </itemInstances>
         <name>main</name>
@@ -339,7 +326,6 @@
                     <value>required</value>
                 </fieldInstanceProperties>
                 <fieldItem>Record.Name</fieldItem>
-                <identifier>RecordNameField</identifier>
             </fieldInstance>
         </itemInstances>
         <itemInstances>
@@ -349,7 +335,6 @@
                     <value>required</value>
                 </fieldInstanceProperties>
                 <fieldItem>Record.copado__ExtensionConfiguration__c</fieldItem>
-                <identifier>RecordExtensionConfiguration_cField1</identifier>
             </fieldInstance>
         </itemInstances>
         <itemInstances>
@@ -359,7 +344,6 @@
                     <value>none</value>
                 </fieldInstanceProperties>
                 <fieldItem>Record.copado__Type__c</fieldItem>
-                <identifier>RecordType_cField1</identifier>
                 <visibilityRule>
                     <criteria>
                         <leftValue>{!Record.CreatedBy.Username}</leftValue>
@@ -375,7 +359,6 @@
                     <value>none</value>
                 </fieldInstanceProperties>
                 <fieldItem>Record.copado__ReadyToRun__c</fieldItem>
-                <identifier>RecordReadyToRun_cField1</identifier>
                 <visibilityRule>
                     <criteria>
                         <leftValue>{!Record.copado__Reference__c}</leftValue>
@@ -391,7 +374,6 @@
                     <value>none</value>
                 </fieldInstanceProperties>
                 <fieldItem>Record.copado__Reference__c</fieldItem>
-                <identifier>RecordReference__cField</identifier>
                 <visibilityRule>
                     <criteria>
                         <leftValue>{!Record.copado__Reference__c}</leftValue>
@@ -407,7 +389,6 @@
                     <value>none</value>
                 </fieldInstanceProperties>
                 <fieldItem>Record.copado__Status__c</fieldItem>
-                <identifier>RecordStatus__cField</identifier>
                 <visibilityRule>
                     <criteria>
                         <leftValue>{!Record.copado__Reference__c}</leftValue>
@@ -423,7 +404,6 @@
                     <value>none</value>
                 </fieldInstanceProperties>
                 <fieldItem>Record.copado__Priority__c</fieldItem>
-                <identifier>RecordPriority__cField</identifier>
                 <visibilityRule>
                     <criteria>
                         <leftValue>{!Record.copado__Reference__c}</leftValue>
@@ -439,7 +419,6 @@
                     <value>none</value>
                 </fieldInstanceProperties>
                 <fieldItem>Record.copado__User_Story__c</fieldItem>
-                <identifier>RecordUser_Story__cField</identifier>
             </fieldInstance>
         </itemInstances>
         <itemInstances>
@@ -449,7 +428,6 @@
                     <value>none</value>
                 </fieldInstanceProperties>
                 <fieldItem>Record.copado__Feature__c</fieldItem>
-                <identifier>RecordFeature__cField</identifier>
                 <visibilityRule>
                     <criteria>
                         <leftValue>{!Record.copado__Reference__c}</leftValue>
@@ -465,7 +443,6 @@
                     <value>none</value>
                 </fieldInstanceProperties>
                 <fieldItem>Record.copado__Application__c</fieldItem>
-                <identifier>RecordApplication__cField</identifier>
                 <visibilityRule>
                     <criteria>
                         <leftValue>{!Record.copado__Reference__c}</leftValue>
@@ -481,7 +458,6 @@
                     <value>none</value>
                 </fieldInstanceProperties>
                 <fieldItem>Record.LastModifiedById</fieldItem>
-                <identifier>RecordLastModifiedByIdField</identifier>
                 <visibilityRule>
                     <criteria>
                         <leftValue>{!Record.copado__Reference__c}</leftValue>
@@ -501,7 +477,6 @@
                     <value>Facet-25235006-1f92-439d-ada5-a0111b2f77a4</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:column</componentName>
-                <identifier>flexipage_column4</identifier>
             </componentInstance>
         </itemInstances>
         <name>Facet-dabb2822-08e8-4e24-a9a6-44f4f4bd8a69</name>
@@ -521,7 +496,6 @@
                     <name>noJobTitle</name>
                 </componentInstanceProperties>
                 <componentName>copado:resultMonitor</componentName>
-                <identifier>c_resultMonitor</identifier>
                 <visibilityRule>
                     <criteria>
                         <leftValue>{!Record.copado__Test_Tool__c}</leftValue>
@@ -542,7 +516,6 @@
                     <value>Test Information</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:fieldSection</componentName>
-                <identifier>flexipage_fieldSection2</identifier>
             </componentInstance>
         </itemInstances>
         <name>sidebar</name>
