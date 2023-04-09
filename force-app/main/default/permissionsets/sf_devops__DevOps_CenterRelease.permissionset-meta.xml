@@ -100,7 +100,6 @@
         <field>sf_devops__Work_Item__c.sf_devops__Operation_Status__c</field>
         <readable>true</readable>
     </fieldPermissions>
-    <hasActivationRequired>false</hasActivationRequired>
     <label>DevOps Center Release Manager</label>
     <objectPermissions>
         <allowCreate>true</allowCreate>

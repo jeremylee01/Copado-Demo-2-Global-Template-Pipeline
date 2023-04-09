@@ -4,7 +4,6 @@
         <itemInstances>
             <componentInstance>
                 <componentName>copado:userStoryCommitHeader</componentName>
-                <identifier>c_userStoryCommitHeader1</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
@@ -14,7 +13,6 @@
                     <value>CCM.UserStoryCommit.TableActions</value>
                 </componentInstanceProperties>
                 <componentName>copado:dynamicUISectionContainer</componentName>
-                <identifier>dynamicUISectionContainer</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
@@ -24,7 +22,6 @@
                     <value>CCM.UserStoryCommit.Table</value>
                 </componentInstanceProperties>
                 <componentName>copado:dynamicUISectionContainer</componentName>
-                <identifier>dynamicUISectionContainer2</identifier>
             </componentInstance>
         </itemInstances>
         <name>main</name>

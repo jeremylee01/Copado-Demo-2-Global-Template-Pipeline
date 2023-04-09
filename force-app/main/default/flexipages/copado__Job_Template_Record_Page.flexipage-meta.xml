@@ -38,7 +38,6 @@
                     <value>5</value>
                 </componentInstanceProperties>
                 <componentName>force:highlightsPanel</componentName>
-                <identifier>force_highlightsPanel</identifier>
             </componentInstance>
         </itemInstances>
         <mode>Replace</mode>
@@ -49,7 +48,6 @@
         <itemInstances>
             <componentInstance>
                 <componentName>force:detailPanel</componentName>
-                <identifier>force_detailPanel</identifier>
             </componentInstance>
         </itemInstances>
         <name>Facet-f903dfe5-1cc5-44ee-8195-0c5fe6d7c1bd</name>
@@ -59,7 +57,6 @@
         <itemInstances>
             <componentInstance>
                 <componentName>copado:customJobStepContainer</componentName>
-                <identifier>c_customJobStepContainer1</identifier>
             </componentInstance>
         </itemInstances>
         <name>Facet-1eee4437-156c-4108-aea1-7ccfbdb22560</name>
@@ -89,7 +86,6 @@
                     <value>true</value>
                 </componentInstanceProperties>
                 <componentName>force:relatedListSingleContainer</componentName>
-                <identifier>force_relatedListSingleContainer2</identifier>
             </componentInstance>
         </itemInstances>
         <name>Facet-b24ab446-6ef6-46b3-9223-56281049b1cf</name>
@@ -111,7 +107,6 @@
                     <value>Standard.Tab.detail</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tab</componentName>
-                <identifier>detailTab</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
@@ -129,7 +124,6 @@
                     <value>Steps</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tab</componentName>
-                <identifier>customTab</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
@@ -147,7 +141,6 @@
                     <value>Job Executions</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tab</componentName>
-                <identifier>customTab2</identifier>
             </componentInstance>
         </itemInstances>
         <name>Facet-d3737519-e72b-4a3b-87ea-fab292601f24</name>
@@ -161,7 +154,6 @@
                     <value>Facet-d3737519-e72b-4a3b-87ea-fab292601f24</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tabset</componentName>
-                <identifier>flexipage_tabset</identifier>
             </componentInstance>
         </itemInstances>
         <mode>Replace</mode>
