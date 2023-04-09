@@ -53,7 +53,6 @@
                     <value>3</value>
                 </componentInstanceProperties>
                 <componentName>force:highlightsPanel</componentName>
-                <identifier>force_highlightsPanel</identifier>
             </componentInstance>
         </itemInstances>
         <name>header</name>
@@ -63,7 +62,6 @@
         <itemInstances>
             <componentInstance>
                 <componentName>force:detailPanel</componentName>
-                <identifier>force_detailPanel</identifier>
             </componentInstance>
         </itemInstances>
         <name>Facet-80cf9fbd-098d-4608-aeed-5d066c833f54</name>
@@ -85,7 +83,6 @@
                     <value>true</value>
                 </componentInstanceProperties>
                 <componentName>force:relatedListContainer</componentName>
-                <identifier>force_relatedListContainer</identifier>
             </componentInstance>
         </itemInstances>
         <name>Facet-cdead7f0-feb0-4d71-bee4-a7f8612630b4</name>
@@ -107,7 +104,6 @@
                     <value>Standard.Tab.detail</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tab</componentName>
-                <identifier>detailTab</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
@@ -121,7 +117,6 @@
                     <value>Standard.Tab.relatedLists</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tab</componentName>
-                <identifier>relatedListsTab</identifier>
             </componentInstance>
         </itemInstances>
         <name>Facet-c7840816-222a-4371-a0a6-6af07d540258</name>
@@ -135,7 +130,6 @@
                     <value>Facet-c7840816-222a-4371-a0a6-6af07d540258</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tabset</componentName>
-                <identifier>flexipage_tabset</identifier>
             </componentInstance>
         </itemInstances>
         <name>main</name>

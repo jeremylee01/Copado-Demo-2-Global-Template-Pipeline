@@ -838,7 +838,6 @@
         <field>copado__User_Story__c.copado__userStory_reason__c</field>
         <readable>true</readable>
     </fieldPermissions>
-    <hasActivationRequired>false</hasActivationRequired>
     <label>Quality Gates (Read Only)</label>
     <objectPermissions>
         <allowCreate>false</allowCreate>

@@ -555,7 +555,6 @@
         <field>sf_devops__Work_Item__c.sf_devops__State__c</field>
         <readable>true</readable>
     </fieldPermissions>
-    <hasActivationRequired>false</hasActivationRequired>
     <label>DevOps Center</label>
     <objectPermissions>
         <allowCreate>true</allowCreate>

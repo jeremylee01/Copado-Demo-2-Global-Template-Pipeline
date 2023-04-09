@@ -481,7 +481,6 @@
         <field>copado__User_Story__c.copado__userStory_reason__c</field>
         <readable>true</readable>
     </fieldPermissions>
-    <hasActivationRequired>false</hasActivationRequired>
     <label>User Story &amp; User Story Dependency (Read Only)</label>
     <objectPermissions>
         <allowCreate>false</allowCreate>
