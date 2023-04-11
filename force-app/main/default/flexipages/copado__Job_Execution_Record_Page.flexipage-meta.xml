@@ -77,7 +77,6 @@
                     <value>5</value>
                 </componentInstanceProperties>
                 <componentName>force:highlightsPanel</componentName>
-                <identifier>force_highlightsPanel</identifier>
             </componentInstance>
         </itemInstances>
         <name>header</name>
@@ -87,7 +86,6 @@
         <itemInstances>
             <componentInstance>
                 <componentName>force:detailPanel</componentName>
-                <identifier>force_detailPanel</identifier>
             </componentInstance>
         </itemInstances>
         <name>detailTabContent</name>
@@ -97,7 +95,6 @@
         <itemInstances>
             <componentInstance>
                 <componentName>copado:customJobStepContainer</componentName>
-                <identifier>c_customJobStepContainer1</identifier>
             </componentInstance>
         </itemInstances>
         <name>Facet-99f18822-1aae-41b2-b95c-45c71c49435c</name>
@@ -119,7 +116,6 @@
                     <value>Standard.Tab.detail</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tab</componentName>
-                <identifier>detailTab</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
@@ -137,7 +133,6 @@
                     <value>Steps</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tab</componentName>
-                <identifier>customTab</identifier>
             </componentInstance>
         </itemInstances>
         <name>maintabs</name>
@@ -151,7 +146,6 @@
                     <value>maintabs</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tabset</componentName>
-                <identifier>flexipage_tabset</identifier>
             </componentInstance>
         </itemInstances>
         <name>main</name>
@@ -165,7 +159,6 @@
                     <value>Id</value>
                 </componentInstanceProperties>
                 <componentName>copado:resultMonitor</componentName>
-                <identifier>resultMonitor</identifier>
             </componentInstance>
         </itemInstances>
         <name>sidebar</name>

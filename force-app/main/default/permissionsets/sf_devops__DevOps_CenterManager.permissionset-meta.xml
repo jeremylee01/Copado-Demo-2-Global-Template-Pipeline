@@ -76,7 +76,6 @@
         <field>sf_devops__Repository__c.sf_devops__GitHub_Repo__c</field>
         <readable>true</readable>
     </fieldPermissions>
-    <hasActivationRequired>false</hasActivationRequired>
     <label>DevOps Center Manager</label>
     <objectPermissions>
         <allowCreate>false</allowCreate>
