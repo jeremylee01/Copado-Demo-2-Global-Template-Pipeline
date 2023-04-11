@@ -44,7 +44,6 @@
         <field>copado__Team__c.copado__Vision__c</field>
         <readable>true</readable>
     </fieldPermissions>
-    <hasActivationRequired>false</hasActivationRequired>
     <label>Teams Management (Read Only)</label>
     <objectPermissions>
         <allowCreate>false</allowCreate>
