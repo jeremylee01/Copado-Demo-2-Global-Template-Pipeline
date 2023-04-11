@@ -285,7 +285,6 @@
         <field>copado__Test__c.copado__User_Story__c</field>
         <readable>true</readable>
     </fieldPermissions>
-    <hasActivationRequired>false</hasActivationRequired>
     <label>Manual Tests (Admin)</label>
     <objectPermissions>
         <allowCreate>true</allowCreate>

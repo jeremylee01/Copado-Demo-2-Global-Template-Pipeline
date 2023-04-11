@@ -35,7 +35,6 @@
                     <value>2</value>
                 </componentInstanceProperties>
                 <componentName>force:highlightsPanel</componentName>
-                <identifier>force_highlightsPanel1</identifier>
             </componentInstance>
         </itemInstances>
         <name>header</name>
@@ -49,13 +48,11 @@
                     <value>RecordMatchingFormulaAlerts</value>
                 </componentInstanceProperties>
                 <componentName>copado:copadoAlertPlaceHolder</componentName>
-                <identifier>c_copadoAlertPlaceHolder1</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
             <componentInstance>
                 <componentName>copado:recordMatchingFormulaContainer</componentName>
-                <identifier>c_recordMatchingFormulaContainer1</identifier>
             </componentInstance>
         </itemInstances>
         <name>main</name>
