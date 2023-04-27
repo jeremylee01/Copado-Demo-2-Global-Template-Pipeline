@@ -29,7 +29,6 @@
         <field>copado__User_Story_Task__c.copado__Subject__c</field>
         <readable>true</readable>
     </fieldPermissions>
-    <hasActivationRequired>false</hasActivationRequired>
     <label>User Story Task Read Only</label>
     <objectPermissions>
         <allowCreate>false</allowCreate>

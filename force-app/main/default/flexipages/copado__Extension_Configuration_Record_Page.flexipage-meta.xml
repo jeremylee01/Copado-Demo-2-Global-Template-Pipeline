@@ -58,7 +58,6 @@
                     <value>2</value>
                 </componentInstanceProperties>
                 <componentName>force:highlightsPanel</componentName>
-                <identifier>force_highlightsPanel</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
@@ -76,7 +75,6 @@
                     <value>info</value>
                 </componentInstanceProperties>
                 <componentName>copado:copadoAlert</componentName>
-                <identifier>c_copadoAlert1</identifier>
                 <visibilityRule>
                     <booleanFilter>1 AND 2</booleanFilter>
                     <criteria>
@@ -103,19 +101,16 @@
                     <value>required</value>
                 </fieldInstanceProperties>
                 <fieldItem>Record.Name</fieldItem>
-                <identifier>RecordNameField</identifier>
             </fieldInstance>
         </itemInstances>
         <itemInstances>
             <fieldInstance>
                 <fieldItem>Record.copado__ExtensionTool__c</fieldItem>
-                <identifier>RecordExtensionTool_cField1</identifier>
             </fieldInstance>
         </itemInstances>
         <itemInstances>
             <fieldInstance>
                 <fieldItem>Record.LastModifiedById</fieldItem>
-                <identifier>RecordLastModifiedByIdField</identifier>
                 <visibilityRule>
                     <criteria>
                         <leftValue>{!Record.CreatedBy.Username}</leftValue>
@@ -131,7 +126,6 @@
         <itemInstances>
             <fieldInstance>
                 <fieldItem>Record.copado__ExtensionApplication__c</fieldItem>
-                <identifier>RecordExtension_Application_cField1</identifier>
             </fieldInstance>
         </itemInstances>
         <itemInstances>
@@ -141,7 +135,6 @@
                     <value>readonly</value>
                 </fieldInstanceProperties>
                 <fieldItem>Record.copado__TestType__c</fieldItem>
-                <identifier>RecordTestType_cField1</identifier>
                 <visibilityRule>
                     <booleanFilter>1 AND 2</booleanFilter>
                     <criteria>
@@ -167,7 +160,6 @@
                     <value>Facet-3119e2c6-2275-45a0-b423-3abfc909c6f9</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:column</componentName>
-                <identifier>flexipage_column</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
@@ -177,7 +169,6 @@
                     <value>Facet-91b5ad77-4926-440d-85c5-b64cfbce4258</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:column</componentName>
-                <identifier>flexipage_column2</identifier>
             </componentInstance>
         </itemInstances>
         <name>Facet-3101d2a6-69ef-47cd-8bc9-8e6f53a6848a</name>
@@ -195,7 +186,6 @@
                     <value>Information</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:fieldSection</componentName>
-                <identifier>flexipage_fieldSection</identifier>
             </componentInstance>
         </itemInstances>
         <name>detailTabContent</name>
@@ -205,7 +195,6 @@
         <itemInstances>
             <componentInstance>
                 <componentName>copado:extensionConfigurationSettings</componentName>
-                <identifier>c_extensionConfigurationSettings1</identifier>
             </componentInstance>
         </itemInstances>
         <name>Facet-925838ff-7378-419c-8fce-9115cdba75ae</name>
@@ -235,7 +224,6 @@
                     <value>true</value>
                 </componentInstanceProperties>
                 <componentName>force:relatedListSingleContainer</componentName>
-                <identifier>force_relatedListSingleContainer2</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
@@ -261,7 +249,6 @@
                     <value>true</value>
                 </componentInstanceProperties>
                 <componentName>force:relatedListSingleContainer</componentName>
-                <identifier>force_relatedListSingleContainer1</identifier>
             </componentInstance>
         </itemInstances>
         <name>Facet-0fa6e4b1-f08f-489f-9bde-a9284e9be74c</name>
@@ -283,7 +270,6 @@
                     <value>Standard.Tab.detail</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tab</componentName>
-                <identifier>detailTab</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
@@ -297,7 +283,6 @@
                     <value>Settings</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tab</componentName>
-                <identifier>flexipage_tab1</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
@@ -311,7 +296,6 @@
                     <value>Standard.Tab.relatedLists</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tab</componentName>
-                <identifier>flexipage_tab2</identifier>
             </componentInstance>
         </itemInstances>
         <name>maintabs</name>
@@ -325,7 +309,6 @@
                     <value>maintabs</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tabset</componentName>
-                <identifier>flexipage_tabset</identifier>
             </componentInstance>
         </itemInstances>
         <name>main</name>
@@ -335,7 +318,6 @@
         <itemInstances>
             <componentInstance>
                 <componentName>copado:extensionConfigurationStatus</componentName>
-                <identifier>c_extensionConfigurationStatus1</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
@@ -349,13 +331,11 @@
                     <value>Test Tool</value>
                 </componentInstanceProperties>
                 <componentName>copado:dynamicUISectionContainer</componentName>
-                <identifier>c_dynamicUISectionContainer1</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
             <componentInstance>
                 <componentName>copado:extensionConfigurationPublishMessage</componentName>
-                <identifier>c_extensionConfigurationPublishMessage1</identifier>
             </componentInstance>
         </itemInstances>
         <name>sidebar</name>

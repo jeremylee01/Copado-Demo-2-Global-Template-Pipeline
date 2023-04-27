@@ -5,7 +5,6 @@
         <itemInstances>
             <componentInstance>
                 <componentName>copado:notificationsCenterContainer</componentName>
-                <identifier>c_notificationsCenterContainer1</identifier>
             </componentInstance>
         </itemInstances>
         <name>main</name>

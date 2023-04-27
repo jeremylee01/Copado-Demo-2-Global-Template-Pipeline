@@ -18,7 +18,6 @@
         <field>User.copado__Work_Manager_Panels__c</field>
         <readable>true</readable>
     </fieldPermissions>
-    <hasActivationRequired>false</hasActivationRequired>
     <label>Work Manager (Admin)</label>
     <pageAccesses>
         <apexPage>copado__WorkManager</apexPage>
