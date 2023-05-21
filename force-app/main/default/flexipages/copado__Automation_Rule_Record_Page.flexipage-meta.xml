@@ -58,7 +58,6 @@
                     <value>3</value>
                 </componentInstanceProperties>
                 <componentName>force:highlightsPanel</componentName>
-                <identifier>force_highlightsPanel1</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
@@ -68,7 +67,6 @@
                     <value>automationRulePageAlerts</value>
                 </componentInstanceProperties>
                 <componentName>copado:copadoAlertPlaceHolder</componentName>
-                <identifier>c_copadoAlertPlaceHolder</identifier>
             </componentInstance>
         </itemInstances>
         <name>header</name>
@@ -82,7 +80,6 @@
                     <value>required</value>
                 </fieldInstanceProperties>
                 <fieldItem>Record.Name</fieldItem>
-                <identifier>RecordNameField1</identifier>
             </fieldInstance>
         </itemInstances>
         <itemInstances>
@@ -92,7 +89,6 @@
                     <value>required</value>
                 </fieldInstanceProperties>
                 <fieldItem>Record.copado__Pipeline__c</fieldItem>
-                <identifier>RecordPipeline_cField1</identifier>
             </fieldInstance>
         </itemInstances>
         <name>Facet-1d41aef3-2125-4b86-93cd-d6a734b6c796</name>
@@ -102,7 +98,6 @@
         <itemInstances>
             <fieldInstance>
                 <fieldItem>Record.copado__Description__c</fieldItem>
-                <identifier>RecordDescription_cField</identifier>
             </fieldInstance>
         </itemInstances>
         <name>Facet-4a893f81-cc9d-4510-b2c7-938fbe7f0c3f</name>
@@ -116,7 +111,6 @@
                     <value>Facet-1d41aef3-2125-4b86-93cd-d6a734b6c796</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:column</componentName>
-                <identifier>flexipage_column1</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
@@ -126,7 +120,6 @@
                     <value>Facet-4a893f81-cc9d-4510-b2c7-938fbe7f0c3f</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:column</componentName>
-                <identifier>flexipage_column2</identifier>
             </componentInstance>
         </itemInstances>
         <name>Facet-9f4a41db-e84c-475c-81f4-4972f54e9f06</name>
@@ -140,7 +133,6 @@
                     <value>readonly</value>
                 </fieldInstanceProperties>
                 <fieldItem>Record.CreatedById</fieldItem>
-                <identifier>RecordCreatedByIdField1</identifier>
             </fieldInstance>
         </itemInstances>
         <name>Facet-074da548-e872-4084-8a2e-3e6ea5324c1c</name>
@@ -154,7 +146,6 @@
                     <value>readonly</value>
                 </fieldInstanceProperties>
                 <fieldItem>Record.LastModifiedById</fieldItem>
-                <identifier>RecordLastModifiedByIdField1</identifier>
             </fieldInstance>
         </itemInstances>
         <name>Facet-ecdd33bd-b9b5-4145-9edf-dec3e7c010d8</name>
@@ -168,7 +159,6 @@
                     <value>Facet-074da548-e872-4084-8a2e-3e6ea5324c1c</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:column</componentName>
-                <identifier>flexipage_column3</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
@@ -178,7 +168,6 @@
                     <value>Facet-ecdd33bd-b9b5-4145-9edf-dec3e7c010d8</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:column</componentName>
-                <identifier>flexipage_column4</identifier>
             </componentInstance>
         </itemInstances>
         <name>Facet-1289550c-c106-4d76-a6ac-0318908ec5be</name>
@@ -196,7 +185,6 @@
                     <value>Information</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:fieldSection</componentName>
-                <identifier>flexipage_fieldSection1</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
@@ -210,7 +198,6 @@
                     <value>System Information</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:fieldSection</componentName>
-                <identifier>flexipage_fieldSection2</identifier>
                 <visibilityRule>
                     <criteria>
                         <leftValue>{!Record.CreatedBy.Username}</leftValue>
@@ -226,7 +213,6 @@
         <itemInstances>
             <componentInstance>
                 <componentName>copado:automationRuleEvaluationScope</componentName>
-                <identifier>c_automationRuleEvaluationScope</identifier>
             </componentInstance>
         </itemInstances>
         <name>Facet-1b72ce77-e918-4653-82f0-e8fbb0f258e4</name>
@@ -244,7 +230,6 @@
                     <value>Standard.Tab.detail</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tab</componentName>
-                <identifier>flexipage_tab2</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
@@ -262,7 +247,6 @@
                     <value>Conditions</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tab</componentName>
-                <identifier>flexipage_tab</identifier>
             </componentInstance>
         </itemInstances>
         <name>Facet-f4500726-be1f-4203-8f6b-ab3b73e0915f</name>
@@ -276,7 +260,6 @@
                     <value>Facet-f4500726-be1f-4203-8f6b-ab3b73e0915f</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tabset</componentName>
-                <identifier>flexipage_tabset</identifier>
             </componentInstance>
         </itemInstances>
         <name>main</name>
@@ -286,7 +269,6 @@
         <itemInstances>
             <componentInstance>
                 <componentName>copado:automationRuleConfiguration</componentName>
-                <identifier>c_automationRuleConfiguration</identifier>
             </componentInstance>
         </itemInstances>
         <name>sidebar</name>

@@ -520,7 +520,6 @@
         <field>copado__Test__c.copado__User_Story__c</field>
         <readable>true</readable>
     </fieldPermissions>
-    <hasActivationRequired>false</hasActivationRequired>
     <label>Monitor AQF</label>
     <objectPermissions>
         <allowCreate>false</allowCreate>

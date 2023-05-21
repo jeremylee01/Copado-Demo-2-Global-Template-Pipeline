@@ -73,7 +73,6 @@
                     <value>3</value>
                 </componentInstanceProperties>
                 <componentName>force:highlightsPanel</componentName>
-                <identifier>force_highlightsPanel</identifier>
             </componentInstance>
         </itemInstances>
         <name>header</name>
@@ -83,7 +82,6 @@
         <itemInstances>
             <componentInstance>
                 <componentName>force:detailPanel</componentName>
-                <identifier>force_detailPanel</identifier>
             </componentInstance>
         </itemInstances>
         <name>detailTabContent</name>
@@ -93,7 +91,6 @@
         <itemInstances>
             <componentInstance>
                 <componentName>copado:dataTemplateObjectFieldsTab</componentName>
-                <identifier>dataTemplateObjectFieldsTab</identifier>
             </componentInstance>
         </itemInstances>
         <name>Facet-5a43b19d-377e-4227-a455-aadb8f896b51</name>
@@ -103,7 +100,6 @@
         <itemInstances>
             <componentInstance>
                 <componentName>copado:dataTemplateParentFieldsTab</componentName>
-                <identifier>dataTemplateParentFieldsTab</identifier>
             </componentInstance>
         </itemInstances>
         <name>Facet-faf86772-863b-4878-91cf-eb74bfbd267c</name>
@@ -113,7 +109,6 @@
         <itemInstances>
             <componentInstance>
                 <componentName>copado:dataTemplateChildFieldsTab</componentName>
-                <identifier>dataTemplateChildFieldsTab</identifier>
             </componentInstance>
         </itemInstances>
         <name>Facet-842o2x08gz3</name>
@@ -123,7 +118,6 @@
         <itemInstances>
             <componentInstance>
                 <componentName>copado:dataTemplateObjectFiltersTab</componentName>
-                <identifier>dataTemplateObjectFiltersTab</identifier>
             </componentInstance>
         </itemInstances>
         <name>Facet-967c8510-99aa-4882-be4e-c608a460e30e</name>
@@ -133,7 +127,6 @@
         <itemInstances>
             <componentInstance>
                 <componentName>copado:dataTemplateDeploymentOptionsTab</componentName>
-                <identifier>dataTemplateDeploymentOptionsTab</identifier>
             </componentInstance>
         </itemInstances>
         <name>Facet-5f0b291f-484f-4f76-b9b8-66ab292bbd67</name>
@@ -143,7 +136,6 @@
         <itemInstances>
             <componentInstance>
                 <componentName>copado:dataTemplateRelationshipDiagramTab</componentName>
-                <identifier>dataTemplateRelationshipDiagramTab</identifier>
             </componentInstance>
         </itemInstances>
         <name>Facet-08b32458-7d91-44a4-8092-9e13fdd90c8c</name>
@@ -165,7 +157,6 @@
                     <value>Standard.Tab.detail</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tab</componentName>
-                <identifier>detailTab</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
@@ -183,7 +174,6 @@
                     <value>Object Fields</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tab</componentName>
-                <identifier>customTab</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
@@ -197,7 +187,6 @@
                     <value>Parent Objects</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tab</componentName>
-                <identifier>customTab2</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
@@ -211,7 +200,6 @@
                     <value>Child Objects</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tab</componentName>
-                <identifier>customTab3</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
@@ -225,7 +213,6 @@
                     <value>Main Object Filter</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tab</componentName>
-                <identifier>customTab4</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
@@ -239,7 +226,6 @@
                     <value>Deployment Options</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tab</componentName>
-                <identifier>customTab5</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
@@ -253,7 +239,6 @@
                     <value>Relationship Diagram</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tab</componentName>
-                <identifier>customTab6</identifier>
             </componentInstance>
         </itemInstances>
         <name>maintabs</name>
@@ -267,7 +252,6 @@
                     <value>DataTemplateAlerts</value>
                 </componentInstanceProperties>
                 <componentName>copado:copadoAlertPlaceHolder</componentName>
-                <identifier>copadoAlertPlaceHolder</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
@@ -277,7 +261,6 @@
                     <value>maintabs</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tabset</componentName>
-                <identifier>flexipage_tabset</identifier>
             </componentInstance>
         </itemInstances>
         <name>main</name>

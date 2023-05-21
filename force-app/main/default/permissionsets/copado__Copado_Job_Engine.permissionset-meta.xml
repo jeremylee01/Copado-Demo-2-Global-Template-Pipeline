@@ -368,7 +368,6 @@
         <field>copado__Result__c.copado__JobStep__c</field>
         <readable>true</readable>
     </fieldPermissions>
-    <hasActivationRequired>false</hasActivationRequired>
     <label>Copado Job Engine</label>
     <objectPermissions>
         <allowCreate>false</allowCreate>
